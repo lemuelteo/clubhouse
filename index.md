@@ -7,6 +7,12 @@
 #
 layout: home
 ---
-**Welcome to the Clubhouse!**
+## **Welcome to the Clubhouse!**
 
 What do you want to do today?
+
+1. Read the news
+
+2. Look at photos
+
+3. Play a game 
