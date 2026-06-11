@@ -47,4 +47,4 @@ According to Yakult Singapore’s website, it was first introduced to Singaporea
 CNA Lifestyle has reached out to Yakult Singapore for more information.
 
 
-%% Source:  https://cnalifestyle.channelnewsasia.com/dining/yakult-singapore-replace-orange-peach-584366?cid=internal_sharetool_androidphone_11062026_cnalifestyle
+<!-- Source:  https://cnalifestyle.channelnewsasia.com/dining/yakult-singapore-replace-orange-peach-584366?cid=internal_sharetool_androidphone_11062026_cnalifestyle -->
