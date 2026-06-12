@@ -1,5 +1,7 @@
 ---
-layout: base
+layout: page
+title: Wiki
+permalink: /wiki/
 ---
 
-# Wiki
+Link to other interesting articles here
