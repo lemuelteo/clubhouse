@@ -1,7 +1,7 @@
 ---
 layout: blog
+title: News
+permalink: /news/
 ---
-
-# News
 
 Read the latest news here.
