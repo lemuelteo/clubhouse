@@ -2,6 +2,6 @@
 layout: blog
 ---
 
-<h1>News</h1>
+# News
 
 Read the latest news here.
