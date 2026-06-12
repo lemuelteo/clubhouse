@@ -33,7 +33,7 @@ minima:
   #   should be rendered.
   nav_pages:
     - about.md
-    - wiki.md
+    - learn.md
     - news.md
 
   # Set to `true` to show excerpts on the homepage.
