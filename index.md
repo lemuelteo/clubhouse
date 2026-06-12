@@ -15,4 +15,7 @@ What do you want to do today?
 
 2. Look at photos
 
-3. Play a game 
+3. Play a game
+
+| Learn <br> _How stuff works_ | Know <br> _What's going on?_ | Grow <br> _Read your Bible, pray every day_ <br> _And you'll grow, grow, grow..._ | Play <br> _Have fun, stay safe_ |
+| ----- | ---- | ---- | ---- |
