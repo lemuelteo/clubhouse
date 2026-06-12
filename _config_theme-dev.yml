@@ -34,6 +34,7 @@ minima:
   nav_pages:
     - about.md
     - wiki.md
+    - news.html
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
