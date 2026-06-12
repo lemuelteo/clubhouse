@@ -1,4 +1,6 @@
-# Days of the week
+---
+title: Days of the week
+---
 
 | English | 华语 |
 | -- | -- |
